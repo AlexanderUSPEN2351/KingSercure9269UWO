@@ -1,8 +1,8 @@
 #profile-title: HaStIk VPN | Подписка
 #profile-update-interval: 48
-#support-url: https://t.me/HastikVPN
-#profile-web-page-url: https://t.me/HastikVPN
-#tg: https://t.me/HastikVPN
+#support-url: https://t.me/HastikVPNNews
+#profile-web-page-url: https://t.me/HastikVPNNews
+#tg: https://t.me/HastikVPNNews
 #announce: 🏳️ HaStIk VPN - частный впн сервис для стандартного интернет серфинга на WiFi и LTE. Спонсор: @RemainingConnections
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
