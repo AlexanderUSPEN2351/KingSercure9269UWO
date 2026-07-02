@@ -6,6 +6,9 @@
 #announce: 🏳️ HaStIk VPN - частный впн сервис для стандартного интернет серфинга на WiFi и LTE. Спонсор: @RemainingConnections
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
-vless://b02aeb93-3366-456f-ab58-9b2a667921ea@deu-0003-ntr-mk01.tcp-reset-club.net:48001?type=kcp&security=none&sni=deu-0003-ntr-mk01.tcp-reset-club.net&mtu=1350&tti=20&fm=%7B%0A%20%20%22udp%22%20:%20%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%22type%22%20:%20%22header-srtp%22%0A%20%20%20%20%7D%0A%20%20%5D%0A%7D#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%F0%9F%9A%80
+hysteria2://b02aeb93-3366-456f-ab58-9b2a667921ea@nl01-ntr-hy01.tcp-reset-club.net:443?sni=nl01-ntr-hy01.tcp-reset-club.net&alpn=h3&fm=%7B%0A%20%20%22quicParams%22%20:%20%7B%0A%20%20%20%20%22congestion%22%20:%20%22brutal%22%0A%20%20%7D%0A%7D#🇳🇱 Нидерланды ⚡️
+hysteria2://b02aeb93-3366-456f-ab58-9b2a667921ea@deu-0003-ntr-hy01.tcp-reset-club.net:443?sni=deu-0003-ntr-hy01.tcp-reset-club.net&alpn=h3&fm=%7B%0A%20%20%22quicParams%22%20:%20%7B%0A%20%20%20%20%22congestion%22%20:%20%22brutal%22%0A%20%20%7D%0A%7D#🇩🇪 Германия ⚡️
+hysteria2://b02aeb93-3366-456f-ab58-9b2a667921ea@kz03-hy01.tcp-reset-club.net:443?sni=kz03-hy01.tcp-reset-club.net&alpn=h3&fm=%7B%0A%20%20%22quicParams%22%20:%20%7B%0A%20%20%20%20%22congestion%22%20:%20%22brutal%22%0A%20%20%7D%0A%7D#🇰🇿 Казахстан ⚡️
+hysteria2://b02aeb93-3366-456f-ab58-9b2a667921ea@che01-plr-hy01.tcp-reset-club.net:443?sni=che01-plr-hy01.tcp-reset-club.net&alpn=h3&fm=%7B%0A%20%20%22quicParams%22%20:%20%7B%0A%20%20%20%20%22congestion%22%20:%20%22brutal%22%0A%20%20%7D%0A%7D#🇨🇭 Швейцария ⚡️
 vless://1ca60829-476f-Fade-b1b4-a42660c00159@81.163.22.19:443?type=grpc&security=tls&fp=qq&sni=emssq-ru-wl46sel.my-fade.cloud&mode=gun&alpn=h2#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%92%D0%A2%D0%9E%20%F0%9F%8F%B3%EF%B8%8F
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@newlte.kihsuyhf8jkiugsxb.cfd:9443?sni=newlte.kihsuyhf8jkiugsxb.cfd#🇺🇸 США 🏳️
