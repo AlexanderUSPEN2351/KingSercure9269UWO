@@ -1,0 +1,83 @@
+{
+  "outbounds" : [
+    {
+      "settings" : {
+        "servers" : [
+          {
+            "password" : "eoPJchu7n10U7gxk4KG7LXScK7huVtNv",
+            "port" : 1234,
+            "uot" : false,
+            "level" : 0,
+            "method" : "chacha20-ietf-poly1305",
+            "email" : "🇪🇺🥷 #1 Антизаглушка [ТРАФ x10]",
+            "address" : "ads.x5.ru"
+          }
+        ]
+      },
+      "streamSettings" : {
+        "tcpSettings" : {
+          "header" : {
+            "type" : "none"
+          }
+        },
+        "network" : "tcp",
+        "security" : "none"
+      },
+      "protocol" : "shadowsocks",
+      "tag" : "proxy"
+    },
+    {
+      "settings" : {
+        "response" : {
+          "type" : "none"
+        }
+      },
+      "tag" : "block",
+      "protocol" : "blackhole"
+    },
+    {
+      "settings" : {
+
+      },
+      "tag" : "direct",
+      "protocol" : "freedom"
+    }
+  ],
+  "id" : "0A763EAA-DDD8-47A6-B6D7-42AACCBAF62A",
+  "stats" : {
+
+  },
+  "policy" : {
+    "system" : {
+      "statsOutboundUplink" : true,
+      "statsInboundDownlink" : true,
+      "statsOutboundDownlink" : true,
+      "statsInboundUplink" : true
+    }
+  },
+  "inbounds" : [
+    {
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "tag" : "socks",
+      "listen" : "[::1]",
+      "protocol" : "socks",
+      "port" : 1080,
+      "sniffing" : {
+        "destOverride" : [
+          "quic",
+          "http",
+          "tls"
+        ],
+        "routeOnly" : false,
+        "enabled" : true
+      }
+    }
+  ],
+  "log" : {
+    "loglevel" : "info"
+  },
+  "remarks" : "🇪🇺🥷 #1 Антизаглушка [ТРАФ x10]"
+}
