@@ -23,7 +23,7 @@
         "network" : "tcp",
         "security" : "none"
       },
-      "protocol" : "shadowsocks",
+      "protocol" : "vless",
       "tag" : "proxy"
     },
     {
@@ -63,7 +63,7 @@
       },
       "tag" : "socks",
       "listen" : "[::1]",
-      "protocol" : "socks",
+      "protocol" : "vless",
       "port" : 1080,
       "sniffing" : {
         "destOverride" : [
