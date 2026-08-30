@@ -2,7 +2,7 @@
 #profile-description: VPN
 
 vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@magazin6.mervi.icu:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=magazin6.mervi.icu&pbk=VoUKOKxP103a3-SYTAOKlXsxaBtpyVSE4G2cadWXJgE&sid=d98c716c17c0dc68#%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%E2%9C%88%EF%B8%8F%E2%9A%A1%EF%B8%8F
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?sni=exit-de-1.rog-self.co.uk#%25F0%259F%2587%25AA%25F0%259F%2587%25BA%2520%25D0%2591%25D0%25B5%25D0%25BB%25D1%258B%25D0%25B5%2520%25D1%2581%25D0%25BF%25D0%25B8%25D1%2581%25D0%25BA%25D0%25B8%2520%25F0%259F%258F%25B3%25EF%25B8%258F#🇪🇺 Белые списки 🏳️
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?sni=exit-de-1.rog-self.co.uk#🇪🇺 Белые списки 🏳️
 vless://2f919a1e-f00e-4538-b0a9-cf190721d578@2.26.227.49:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=ge1.shhflow.xyz&pbk=HyxJ9UmGQlNG7YPMdc_jjvB8GW8JfeKmoi1CA1ZL5wM#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%9A%A1%EF%B8%8F
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@185.209.15.198:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl8.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%E2%9A%A1%EF%B8%8F
 vless://9c1d8e93-85c8-412e-8d9d-14cd9e99e610@d-pl.cloud-cdn.xyz:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=d-pl.cloud-cdn.xyz&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&spx=/#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%E2%9A%A1%EF%B8%8F
